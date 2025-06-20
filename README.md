@@ -1,11 +1,30 @@
 # DataFlex Solutions Case Studies
 
-Esse repositório foi idealizado a partir de um prompt no chatGPT, onde solicitei um cenário em que uma empresa fictícia (*DataFlex Solutions*) me contratou como desenvolvedora backend/ analista de dados/ engenheira de dados (todos rank Junior) e agora me passa demandas diárias, simulando o dia-a-dia prático desses cargos. Essas demandas estarão colocadas em repositórios individuais e todas trarão comentários descritivos. O intuito desse repositório é demonstrar minhas capacidades de resolução de problemas.
+Este repositório contém uma coleção de desafios práticos que simulam demandas reais nas áreas de **Análise de Dados**, **Engenharia de Dados** e **Desenvolvimento Backend**.
+
+O objetivo é aplicar conceitos aprendidos durante a formação em Análise e Desenvolvimento de Sistemas, utilizando principalmente a linguagem **Python** e ferramentas comuns no mercado de tecnologia.
 
 ---
 
+## 🚀 Estrutura do Repositório:
+```
+├── demanda_01
+│   ├── demanda_01.ipynb
+│   └── README.md
+└── README.md
+```
+
+- [x] demanda_01:
+  
+- Análise de inadimplência de clientes com Pandas (Análise de Dados)
+  
+- [ ] demanda_02
+ - a concluir
+
+---
 **Desenvolvido por:** Carolina Batatinha
 
 **Contato:** 
 
 - [LinkedIn](https://www.linkedin.com/in/carolinabatatinha/)
+- [E-mail](mailto:batatinha.carolina@gmail.com)
