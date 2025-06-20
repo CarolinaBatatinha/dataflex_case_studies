@@ -10,6 +10,11 @@ O objetivo é aplicar conceitos aprendidos durante a formação em Análise e De
 ```
 ├── demanda_01
 │   ├── demanda_01.ipynb
+│   ├── clientes.csv
+│   └── README.md
+├── demanda_02
+│   ├── demanda_01.ipynb
+│   ├── clientes.csv
 │   └── README.md
 └── README.md
 ```
