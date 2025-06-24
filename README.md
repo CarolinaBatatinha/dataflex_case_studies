@@ -21,13 +21,13 @@ O objetivo é aplicar conceitos aprendidos durante a formação em Análise e De
 
 - [x] demanda_01:
   
-- Análise de inadimplência de clientes com Pandas (Análise de Dados)
+- Análise de inadimplência de clientes com Pandas (*Análise de Dados*)
   
 - [ ] demanda_02
  - a concluir
 
 ---
-**Desenvolvido por:** Carolina Batatinha
+**Desenvolvido por:** *Carolina Batatinha*
 
 **Contato:** 
 
